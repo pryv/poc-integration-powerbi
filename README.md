@@ -4,6 +4,9 @@ Custom data connector to import data from a Pryv backend to Microsoft Power BI.
 
 Warning: support for custom data connectors was only enabled in the [June release 2017](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-feature-summary/#dataConnectivity)
 
+Power BI DataConector is still in **Preview**. New features will come from MS and frequent updates should be expected.
+[Official MS SDK DataConnectors](https://github.com/Microsoft/DataConnectors)
+
 ## Content of this package
 
 - **src/** Visual Studio source code
