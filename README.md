@@ -69,6 +69,9 @@ One way of filtering the streams is to click on the dropdown at the top of the n
 
 For advanced users, the custom data connector exposes three M functions. The query described in the previous section uses the Pryv.Contents() function to return a flattened table of streams which can be expanded to return event data. However it is also possible to use the Pryv.Streams() to get a table of streams (that has not been flattened and has its hierarchical structure intact) and the Pryv.Events() function to get a table of events for one or more streams. Examples of how these functions can be called can be found in the PryvCustomConnectorDemoReport.pbix sample file.
 
+## Support and warranty
+
+Pryv provides this software for educational and demonstration purposes with no support or warranty.
 
 ## License
 
