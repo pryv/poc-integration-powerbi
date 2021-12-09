@@ -1,6 +1,6 @@
-# Data Connector Pryv => Microsoft Power BI
+# Pryv → Microsoft Power BI integration
 
-Custom data connector to import data from a Pryv backend to Microsoft Power BI.
+Custom data connector to import data from Pryv to Microsoft Power BI.
 
 Warning: support for custom data connectors was only enabled in the [June release 2017](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-feature-summary/#dataConnectivity)
 
@@ -30,7 +30,7 @@ Power BI DataConector is still in **Preview**. New features will come from MS an
 
 - Next, on your PC, create a folder under Documents called **“Microsoft Power BI Desktop”** and then create a folder called **“Custom Connectors”**. The full path should be:
 `C:\Users\YourUserName\Documents\Microsoft Power BI Desktop\Custom Connectors`
-- Copy the file [bin/Pryv.mez](https://github.com/pryv/plugin-powerbi/raw/master/bin/Pryv.mez) into this new folder
+- Copy the file [bin/Pryv.mez](https://github.com/pryv/poc-integration-powerbi/raw/master/bin/Pryv.mez) into this new folder
 - Restart Power BI Desktop if it is already open, and you will be ready to use the custom data connector
 
 ### Using the custom data connector from the Get Data dialog
