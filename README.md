@@ -77,5 +77,3 @@ Pryv provides this software for educational and demonstration purposes with no s
 
 [Revised BSD license](https://github.com/pryv/documents/blob/master/license-bsd-revised.md)
 
-## Copyright
-This software and source code is under Pryv SA Switzerland copyright.
